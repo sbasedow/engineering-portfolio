@@ -1,30 +1,19 @@
-# Scott Basedow Engineering Portfolio — Ultimate Version
+# Scott Basedow Engineering Portfolio — Polished Final
 
-This is the final recruiter-focused build.
+This version includes the final recruiter-facing refinements:
 
-## Homepage design
-The homepage uses a clear **Engineering Workflow** graphic instead of making any one project the visual identity of the portfolio.
+- Uses "Resume" instead of "Résumé"
+- Replaces the vague instrumentation swoosh with a real oscilloscope-style measurement graphic
+- Renames the instrumentation section to "Experimental Instrumentation & Measurement"
+- Refines the Technical Writing page so it reads like a professional portfolio section rather than placeholder instructions
+- Adds Robotics & Mechatronics to the homepage interests
+- Refines homepage wording and section numbering
+- Keeps Mechanical Engineering + Physics blended into one integrated engineering profile
 
-The workflow communicates:
-1. Design — CAD, assemblies, engineering drawings
-2. Analyze — physics, mechanics, mathematics
-3. Build — assembly and manufacturing
-4. Verify — CMM, inspection, and data
+## Upload to GitHub
+All website files and PNG images are in the same root folder.
 
-Mechanical Engineering + Physics are shown together at the center to communicate one integrated technical profile.
-
-EXODUS remains a featured project under Selected Work and has its own case-study page, so the site can grow naturally as new projects, research, motorsports work, internships, and senior design are added.
-
-## Image reliability
-All PNG images are intentionally stored in the repository root with the HTML files. This avoids nested image-path problems on GitHub Pages.
-
-## Upload
-1. Unzip this folder.
-2. Open your existing `engineering-portfolio` GitHub repository.
-3. Choose **Add file → Upload files**.
-4. Select every file inside this folder.
-5. Upload and commit.
-6. Do not upload the ZIP file itself.
+You can upload all of them to your existing repository and overwrite matching files.
 
 ## Links
 - LinkedIn: https://www.linkedin.com/in/scott-basedow-7019b41b5
